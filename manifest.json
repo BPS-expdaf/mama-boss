@@ -1,0 +1,25 @@
+{
+  "name": "Mama & Boss — Pétula",
+  "short_name": "Mama & Boss",
+  "description": "Mon espace personnel — Femme, Mère & Entrepreneuse",
+  "start_url": "/mama-boss/index.html",
+  "scope": "/mama-boss/",
+  "display": "standalone",
+  "background_color": "#FAF7F2",
+  "theme_color": "#C9917D",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://bps-expdaf.github.io/mama-boss/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://bps-expdaf.github.io/mama-boss/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
